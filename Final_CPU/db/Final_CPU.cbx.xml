@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Final_CPU">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|CU:inst3|MyRom:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_u981.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|ALU:inst2|lpm_add_sub1:inst5|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_nfh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|ALU:inst2|lpm_clshift0:inst1|lpm_clshift:LPM_CLSHIFT_component" CBX_FILE_NAME="lpm_clshift_vjc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|ALU:inst2|lpm_compare0:inst7|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_q3h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|lpm_mux4:inst16|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_03e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|ALU:inst2|lpm_add_sub0:inst|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_4mi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|ALU:inst2|lpm_clshift1:inst6|lpm_clshift:LPM_CLSHIFT_component" CBX_FILE_NAME="lpm_clshift_ukb.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|ALU:inst2|lpm_mux3:inst9|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_s4e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|Instruction_Cache:inst1|I_Cache:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_0791.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|RegisterFile:inst|lpm_decode1:inst|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_b8f.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|RegisterFile:inst|lpm_mux0:inst106|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_b6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|RegisterFile:inst|lpm_mux0:inst16|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_b6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|lpm_mux8:inst13|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_k4e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|lpm_mux8:inst8|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_k4e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|ALU:inst2|lpm_compare1:inst14|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_2hi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|ALU:inst2|lpm_mux2:inst3|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_k4e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Final_CPU|lpm_mux8:inst14|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_k4e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

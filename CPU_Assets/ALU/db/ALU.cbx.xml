@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="ALU">
+		<CBX_INST_ENTRY INSTANCE_NAME="|ALU|lpm_add_sub0:inst|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_4mi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ALU|lpm_add_sub1:inst5|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_nfh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ALU|lpm_clshift0:inst1|lpm_clshift:LPM_CLSHIFT_component" CBX_FILE_NAME="lpm_clshift_vjc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ALU|lpm_clshift1:inst6|lpm_clshift:LPM_CLSHIFT_component" CBX_FILE_NAME="lpm_clshift_ukb.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ALU|lpm_compare0:inst7|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_q3h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ALU|lpm_mux1:inst10|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_s4e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ALU|lpm_compare1:inst14|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_2hi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ALU|lpm_mux0:inst9|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_k4e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

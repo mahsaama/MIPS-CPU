@@ -1,0 +1,53 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clk'
+Slack : -11.739
+TNS   : -26228.902
+
+Type  : Slow Model Setup 'CU:inst3|MyRom:inst|altsyncram:altsyncram_component|altsyncram_u981:auto_generated|ram_block1a11~porta_address_reg0'
+Slack : -7.428
+TNS   : -236.397
+
+Type  : Slow Model Hold 'CU:inst3|MyRom:inst|altsyncram:altsyncram_component|altsyncram_u981:auto_generated|ram_block1a11~porta_address_reg0'
+Slack : -3.023
+TNS   : -56.390
+
+Type  : Slow Model Hold 'clk'
+Slack : 1.079
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -1.423
+TNS   : -6628.544
+
+Type  : Slow Model Minimum Pulse Width 'CU:inst3|MyRom:inst|altsyncram:altsyncram_component|altsyncram_u981:auto_generated|ram_block1a11~porta_address_reg0'
+Slack : -0.500
+TNS   : -52.000
+
+Type  : Fast Model Setup 'clk'
+Slack : -5.437
+TNS   : -12566.904
+
+Type  : Fast Model Setup 'CU:inst3|MyRom:inst|altsyncram:altsyncram_component|altsyncram_u981:auto_generated|ram_block1a11~porta_address_reg0'
+Slack : -2.909
+TNS   : -83.980
+
+Type  : Fast Model Hold 'CU:inst3|MyRom:inst|altsyncram:altsyncram_component|altsyncram_u981:auto_generated|ram_block1a11~porta_address_reg0'
+Slack : -1.955
+TNS   : -53.698
+
+Type  : Fast Model Hold 'clk'
+Slack : 0.481
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -1.423
+TNS   : -6628.544
+
+Type  : Fast Model Minimum Pulse Width 'CU:inst3|MyRom:inst|altsyncram:altsyncram_component|altsyncram_u981:auto_generated|ram_block1a11~porta_address_reg0'
+Slack : -0.500
+TNS   : -52.000
+
+------------------------------------------------------------

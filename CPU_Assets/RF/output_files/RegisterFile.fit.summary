@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Jul 13 20:05:14 2020
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : RegisterFile
+Top-level Entity Name : RegisterFile
+Family : Cyclone II
+Device : EP2C5F256C6
+Timing Models : Final
+Total logic elements : 1,590 / 4,608 ( 35 % )
+    Total combinational functions : 1,590 / 4,608 ( 35 % )
+    Dedicated logic registers : 1,024 / 4,608 ( 22 % )
+Total registers : 1024
+Total pins : 114 / 158 ( 72 % )
+Total virtual pins : 0
+Total memory bits : 0 / 119,808 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 26 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

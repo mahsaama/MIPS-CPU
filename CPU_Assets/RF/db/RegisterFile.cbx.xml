@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="RegisterFile">
+		<CBX_INST_ENTRY INSTANCE_NAME="|RegisterFile|lpm_decode1:inst|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_b8f.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|RegisterFile|lpm_mux0:inst106|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_b6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|RegisterFile|lpm_mux0:inst16|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_b6e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
